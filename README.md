@@ -3,7 +3,7 @@
 本数据集面向油气井工程场景，聚焦钻井工程、完井工程、井壁稳定与石油工程导论等核心知识，采用问答（QA）形式组织，适用于中文技术领域大模型的指令对齐与领域微调。
 
 <p align="center">
-🤗 <a href="https://huggingface.co/datasets/max180123/Chinese-Oilwell-Engineering-QA-Dataset">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://modelscope.cn/datasets/max0123/Chinese-Oilwell-Engineering-QA-Dataset">ModelScope</a>&nbsp&nbsp | &nbsp&nbsp🚀 <a href="https://github.com/max180123/https-huggingface.co-datasets-max180123-Chinese-Oilwell-Engineering-QA-Dataset">GitHub</a>
+🤗 <a href="https://huggingface.co/datasets/max180123/Chinese-Oilwell-Engineering-QA-Dataset">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://modelscope.cn/datasets/max0123/Chinese-Oilwell-Engineering-QA-Dataset">ModelScope</a>&nbsp&nbsp | &nbsp&nbsp🚀 <a href="[https://github.com/max180123/https-huggingface.co-datasets-max180123-Chinese-Oilwell-Engineering-QA-Dataset](https://github.com/max180123/Chinese-Oilwell-Engineering-QA-Dataset)">GitHub</a>
 </p>
 
 ## 数据集概览
@@ -81,5 +81,6 @@
 ## 联系作者
 
 - Email: ma180123@163.com
+
 
 
